@@ -1,5 +1,5 @@
 ## Introduction
-In this project we will preprocess the data for the liver and liver tumor segmentation:<br />
+In this project I preprocessed the data for the liver and liver tumor segmentation:<br />
 The data is provided by the medical segmentation decathlon (http://medicaldecathlon.com/)<br /> (Data License: https://creativecommons.org/licenses/by-sa/4.0/)<br />
 
 
