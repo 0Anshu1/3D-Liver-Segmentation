@@ -17,7 +17,7 @@ The encoder reduces the size of the feature maps by using downconvolutional laye
 The decoder reconstructs a mask of the input shape over several layers by upsampling.
 Additionally skip-connections allow a direct information flow from the encoder to the decoder on all intermediate levels of the UNET.
 This allows for a high quality of the produced mask and simplifies the training process.<br />
-![alt text](images/unet.png?raw=true)
+![alt text](https://github.com/0Anshu1/3D-Liver-Segmentation/blob/main/unet.png?raw=true)
 
 We can use the 2D-UNET architecture with some small changes(3D-UNET):
 
