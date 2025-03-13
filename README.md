@@ -59,4 +59,4 @@ Additionally, we can leverage the DataLoader from pytorch to perform the predict
 
 ## Visualization
 Finally we can visualize the prediction: <br/>
-![alt text](images/my_animation_2.gif?raw=true)
+![alt text](O:\3D Liver Segmentation\3D-Liver-Segmentation\images\my_animation_1.gif?raw=true)
