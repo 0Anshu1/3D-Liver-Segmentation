@@ -60,3 +60,9 @@ Additionally, we can leverage the DataLoader from pytorch to perform the predict
 ## Visualization
 Finally we can visualize the prediction: <br/>
 ![alt text](https://github.com/0Anshu1/3D-Liver-Segmentation/blob/main/my_animation_1.gif?raw=true)
+
+
+## Research Papers referred
+Here are the links of the papers referred to gain insights about how to identify liver from the CT scans.
+(https://arxiv.org/abs/2101.09987) - Automatic Liver Segmentation from CT Images Using Deep Learning Algorithms: A Comparative Study
+(https://arxiv.org/abs/1711.11069) - Detection-aided liver lesion segmentation using deep learning
